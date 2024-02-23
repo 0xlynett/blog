@@ -41,7 +41,7 @@ NIX_ENFORCE_NO_NATIVE='1'
 export NIX_ENFORCE_NO_NATIVE
 NIX_HARDENING_ENABLE='fortify stackprotector pic strictoverflow format relro bindnow'
 export NIX_HARDENING_ENABLE
-NIX_LDFLAGS='-rpath /home/username/Projects/lyn/lipu-sona-mani/outputs/out/lib64 -rpath /home/username/Projects/lyn/lipu-sona-mani/outputs/out/lib '
+NIX_LDFLAGS='-rpath /home/username/Projects/lyn/lynsite/outputs/out/lib64 -rpath /home/username/Projects/lyn/lynsite/outputs/out/lib '
 export NIX_LDFLAGS
 NIX_LIB64_IN_SELF_RPATH='1'
 NIX_NO_SELF_RPATH='1'
@@ -135,7 +135,7 @@ name='nix-shell-env'
 export name
 nativeBuildInputs='/nix/store/8w46c2hf7hclc5p3adyi85bm67gpikqf-nodejs-18.17.1 /nix/store/g6nhzd6qzg1rxi2901x1pzdqs4a55cyw-yarn-1.22.19'
 export nativeBuildInputs
-out='/home/username/Projects/lyn/lipu-sona-mani/outputs/out'
+out='/home/username/Projects/lyn/lynsite/outputs/out'
 export out
 outputBin='out'
 outputDev='out'
@@ -165,7 +165,7 @@ declare -a preConfigureHooks=('_multioutConfig' )
 declare -a preFixupHooks=('_moveToShare' '_multioutDocs' '_multioutDevs' )
 preferLocalBuild='1'
 export preferLocalBuild
-prefix='/home/username/Projects/lyn/lipu-sona-mani/outputs/out'
+prefix='/home/username/Projects/lyn/lynsite/outputs/out'
 declare -a propagatedBuildDepFiles=('propagated-build-build-deps' 'propagated-native-build-inputs' 'propagated-build-target-deps' )
 propagatedBuildInputs=''
 export propagatedBuildInputs
