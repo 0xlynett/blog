@@ -3,7 +3,7 @@
 
   # Flake inputs
   inputs = {
-    nixpkgs.url = "https://flakehub.com/f/NixOS/nixpkgs/0.2305.491812.tar.gz";
+    nixpkgs.url = "github:nixos/nixpkgs/nixos-23.11";
   };
 
   # Flake outputs
@@ -30,6 +30,7 @@
           packages = with pkgs; [
             nodejs_18 # Node.js 18, plus npm, npx, and corepack
             yarn
+            corepack
           ];
         };
       });

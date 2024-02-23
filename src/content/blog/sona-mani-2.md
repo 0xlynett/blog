@@ -22,4 +22,4 @@ tenpo pali". ni li lon ala. jan li wile e ijo
 
 ## wile pi ijo sin
 
-jan li wile e ijo tan ni: ona li ken kepeken ijo.
+jan li wile e ijo tan ni: ona li ken lon e wile kepeken ijo.
