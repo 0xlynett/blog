@@ -29,11 +29,7 @@ Esalosi. (the Austrian school of economics)
 
 ## lipu
 
-1. open (introduction)
-2. wile jan, wile pi ijo sin (subjective value, marginal value)
-3.
-4. ijo pali, ijo musi (capital goods, consumer goods)
-5. mani pi nasin Esalosi (the austrian theory of money)
-6. nasin sona Esalosi (the austrian method)
+1. [open (introduction)](./sona-mani-1.md)
+2. tenpo kama la ni li kama
 
 tenpo kama la mi pana e lipu mute. mi pana e nimi lon ma ni.
