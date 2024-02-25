@@ -30,6 +30,7 @@ Esalosi. (the Austrian school of economics)
 ## lipu
 
 1. [open (introduction)](./sona-mani-1.md)
-2. tenpo kama la ni li kama
+2. [wile jan, wile pi ijo sin (subjective value, marginal utility)](./sona-mani-2.md)
+3. tenpo kama la ni li kama
 
 tenpo kama la mi pana e lipu mute. mi pana e nimi lon ma ni.
