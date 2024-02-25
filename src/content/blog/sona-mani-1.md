@@ -47,3 +47,5 @@ jan esun ale li pali e nasin ni: nasin mani. sina jo e moku, e
 ilo linluwi, e ijo mute, ni li pona.
 
 o esun pona!
+
+[-> o sona e wile jan, e wile pi ijo sin (subjective value, marginal utility)](/posts/sona-mani-2/)
