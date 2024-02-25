@@ -51,4 +51,5 @@ tenpo pini la moku suwi li suli suli, taso, tenpo lon la moku suwi li suli ala
 tawa jan Miki.
 
 ni li _wile pi ijo sin_, anu _marginal utility_. wile mi li suli la, wile pi ijo
-sin li suli. taso, wile mi li lili la wile pi ijo sin li lili.
+sin li suli. taso, wile mi li lili la wile pi ijo sin li lili. **wile pi ijo sin
+li kama lili.**
