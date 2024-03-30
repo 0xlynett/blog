@@ -36,3 +36,5 @@ pnpm-debug.log*
 
 # remove nix stuff
 .direnv
+
+.pnpm-store
